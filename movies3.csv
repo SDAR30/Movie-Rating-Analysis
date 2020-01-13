@@ -1,0 +1,501 @@
+Movie_Name,Certificate,Duration,Year,Rating,Genre,Vote,Gross,Country,Language,Budget
+Citizen Kane,PG,119,1941,8.3,"Drama, Mystery",361443,1585634,USA,English,839727
+The Godfather,R,175,1972,9.2,"Crime, Drama",1430061,134966411,USA,English,6000000
+The Wizard of Oz,PG,102,1939,8,"Adventure, Family, Fantasy",350414,2076020,USA,English,2800000
+The Shawshank Redemption,R,142,1994,9.3,Drama,2083958,28341469,USA,English,25000000
+Pulp Fiction,R,154,1994,8.9,"Crime, Drama",1628927,107928762,USA,English,8000000
+Casablanca,PG,102,1942,8.5,"Drama, Romance, War",473421,1024560,USA,English,950000
+The Third Man,Not Rated,93,1949,8.2,"Film-Noir, Mystery, Thriller",143227,449191,UK,English,0
+Star Wars: Episode V - The Empire Strikes Back,PG,124,1980,8.7,"Action, Adventure, Fantasy",1045240,290475067,USA,English,18000000
+Schindler's List,R,195,1993,8.9,"Biography, Drama, History",1080108,96067179,USA,English,22000000
+Apocalypse Now,R,147,1979,8.5,"Drama, War",544811,83471511,USA,English,31500000
+Goodfellas,R,146,1990,8.7,"Biography, Crime, Drama",899425,46836394,USA,English,25000000
+Singin' in the Rain,G,103,1952,8.3,"Comedy, Musical, Romance",195243,8819028,USA,English,2540800
+Psycho,R,109,1960,8.5,"Horror, Mystery, Thriller",533726,32000000,USA,English,806947
+2001: A Space Odyssey,G,149,1968,8.3,"Adventure, Sci-Fi",538646,56954992,UK,English,12000000
+Fight Club,R,139,1999,8.8,Drama,1666341,37030102,USA,English,63000000
+Raging Bull,R,129,1980,8.2,"Biography, Drama, Sport",286355,23383987,USA,English,18000000
+Taxi Driver,R,114,1976,8.3,"Crime, Drama",632313,28262574,USA,English,1300000
+Seven Samurai,Not Rated,207,1954,8.7,"Adventure, Drama",281725,269061,Japan,Japanese,2000000
+The 400 Blows,Not Rated,99,1959,8.1,"Crime, Drama",91753,509,France,French,0
+12 Angry Men,Not Rated,96,1957,8.9,Drama,589712,4360000,USA,English,350000
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,PG,95,1964,8.4,Comedy,412510,275902,USA,English,1800000
+Vertigo,PG,128,1958,8.3,"Mystery, Romance, Thriller",318174,3200000,USA,English,2479000
+"The Good, the Bad and the Ugly",R,178,1966,8.9,Western,618604,6100000,Italy,Italian,1200000
+City Lights,G,87,1931,8.5,"Comedy, Drama, Romance",145699,19181,USA,English,1500000
+Gone with the Wind,Passed,238,1939,8.2,"Drama, History, Romance",262980,198676459,USA,English,3977000
+On the Waterfront,Not Rated,108,1954,8.2,"Crime, Drama, Thriller",128214,9600000,USA,English,910000
+The Godfather: Part II,R,202,1974,9,"Crime, Drama",993107,57300000,USA,English,13000000
+The Dark Knight,PG-13,152,2008,9,"Action, Crime, Drama",2050478,534858444,USA,English,185000000
+Blade Runner,R,117,1982,8.2,"Sci-Fi, Thriller",624007,27000000,USA,English,28000000
+Star Wars: Episode IV - A New Hope,PG,121,1977,8.6,"Action, Adventure, Fantasy",1114635,322740140,USA,English,11000000
+All About Eve,Not Rated,138,1950,8.3,Drama,107384,10177,USA,English,1400000
+Raiders of the Lost Ark,PG,115,1981,8.5,"Action, Adventure",806672,248159971,USA,English,18000000
+Back to the Future,PG,116,1985,8.5,"Adventure, Comedy, Sci-Fi",928241,210609762,USA,English,19000000
+Lawrence of Arabia,Approved,216,1962,8.3,"Adventure, Biography, Drama",240526,44824144,UK,English,15000000
+Jaws,PG,124,1975,8,"Adventure, Drama, Thriller",507465,260000000,USA,English,8000000
+12 Years a Slave,R,134,2013,8.1,"Biography, Drama, History",573681,56671993,USA,English,20000000
+The Apartment,Not Rated,125,1960,8.3,"Comedy, Drama, Romance",142591,18600000,USA,English,3000000
+Chinatown,R,130,1974,8.2,"Drama, Mystery, Thriller",264585,29200000,USA,English,6000000
+Some Like It Hot,Not Rated,121,1959,8.2,"Comedy, Romance",218926,25000000,USA,English,2883848
+The Cabinet of Dr. Caligari,Not Rated,67,1920,8.1,"Fantasy, Horror, Mystery",49491,8811,Germany,None,18000
+The Great Dictator,Passed,125,1940,8.5,"Comedy, Drama, War",179075,87339667,USA,English,2000000
+The Lord of the Rings: The Fellowship of the Ring,PG-13,178,2001,8.8,"Adventure, Drama, Fantasy",1499348,315544750,New Zealand,English,93000000
+Alien,R,117,1979,8.5,"Horror, Sci-Fi",708982,78900000,UK,English,11000000
+The Searchers,Passed,119,1956,8,"Adventure, Drama, Western",72807,0,USA,English,3750000
+Andrei Rublev,R,205,1966,8.2,"Biography, Drama, History",38494,102021,Soviet Union,Russian,15367
+Spotlight,R,129,2015,8.1,"Crime, Drama",361838,45055776,USA,English,20000000
+Once Upon a Time in the West,PG-13,165,1968,8.5,Western,269578,5321508,Italy,Italian,5000000
+Moonlight,R,111,2016,7.4,Drama,225187,27850912,USA,English,1500000
+Metropolis,Not Rated,153,1927,8.3,"Drama, Sci-Fi",142435,1236166,Germany,German,3422080
+The Lord of the Rings: The Return of the King,PG-13,201,2003,8.9,"Adventure, Drama, Fantasy",1483296,377845905,New Zealand,English,94000000
+Modern Times,G,87,1936,8.5,"Comedy, Drama, Family",188791,163245,USA,English,1500000
+Aliens,R,137,1986,8.4,"Action, Adventure, Sci-Fi",597027,85160248,USA,English,18500000
+It Happened One Night,Not Rated,105,1934,8.1,"Comedy, Romance",84336,4360000,USA,English,325000
+Laura,Passed,88,1944,8,"Drama, Film-Noir, Mystery",38249,4360000,USA,English,1020000
+Terminator 2: Judgment Day,R,137,1991,8.5,"Action, Sci-Fi",901636,204843350,USA,English,102000000
+A Clockwork Orange,R,136,1971,8.3,"Crime, Drama, Sci-Fi",684637,26589355,UK,English,2200000
+E.T. the Extra-Terrestrial,PG,115,1982,7.9,"Family, Sci-Fi",335259,435110554,USA,English,10500000
+Nosferatu,Not Rated,81,1922,8,"Fantasy, Horror",80368,0,Germany,German,0
+Snow White and the Seven Dwarfs,G,83,1937,7.6,"Animation, Family, Fantasy",163329,184925485,USA,English,2000000
+The Battle of Algiers,Not Rated,121,1966,8.1,"Drama, War",46872,55908,Italy,French,800000
+La Grande Illusion,Not Rated,113,1937,8.1,"Drama, War",30924,172885,France,French,0
+North by Northwest,Not Rated,136,1959,8.3,"Adventure, Mystery, Thriller",270111,13275000,USA,English,3101000
+Butch Cassidy and the Sundance Kid,PG,110,1969,8.1,"Biography, Crime, Drama",186381,102308889,USA,English,6000000
+Repulsion,Not Rated,105,1965,7.8,"Drama, Horror, Thriller",43405,0,UK,English,300000
+The Maltese Falcon,Not Rated,100,1941,8.1,"Film-Noir, Mystery",139829,2108060,USA,English,375000
+Gravity,PG-13,91,2013,7.7,"Drama, Sci-Fi, Thriller",705719,274092705,UK,English,100000000
+Sunset Blvd.,Not Rated,110,1950,8.4,"Drama, Film-Noir",177851,299645,USA,English,1752000
+King Kong,Passed,100,1933,7.9,"Adventure, Horror, Sci-Fi",73378,10000000,USA,English,670000
+Toy Story,G,81,1995,8.3,"Animation, Adventure, Comedy",786423,191796233,USA,English,30000000
+Rear Window,PG,112,1954,8.5,"Mystery, Thriller",396091,36764313,USA,English,1000000
+Rashômon,Not Rated,88,1950,8.3,"Crime, Drama, Mystery",133378,96568,Japan,Japanese,250000
+The Adventures of Robin Hood,PG,102,1938,8,"Action, Adventure, Romance",43773,3981000,USA,English,1900000
+A Hard Day's Night,G,87,1964,7.7,"Comedy, Music, Musical",36704,13780024,UK,English,560000
+Bride of Frankenstein,Not Rated,75,1935,7.9,"Drama, Horror, Sci-Fi",38961,0,USA,English,397024
+M,Not Rated,99,1931,8.3,"Crime, Mystery, Thriller",126665,28877,Germany,German,0
+The Philadelphia Story,Not Rated,112,1940,8,"Comedy, Romance",58293,404524,USA,English,914000
+The Treasure of the Sierra Madre,Passed,126,1948,8.2,"Adventure, Drama, Western",101694,5014000,USA,English,3000000
+All Quiet on the Western Front,Not Rated,136,1930,8.1,"Drama, War",53253,3270000,USA,English,1448864
+Bicycle Thieves,Not Rated,89,1948,8.3,Drama,126110,332930,Italy,Italian,133000
+The Graduate,PG,106,1967,8,"Comedy, Drama, Romance",236981,104945305,USA,English,3000000
+Army of Shadows,Not Rated,145,1969,8.2,"Drama, War",17800,741766,France,French,0
+A Streetcar Named Desire,PG,122,1951,8,Drama,91193,8000000,USA,English,1800000
+The Night of the Hunter,Not Rated,92,1955,8,"Crime, Drama, Film-Noir",74874,654000,USA,English,795000
+One Flew Over the Cuckoo's Nest,R,133,1975,8.7,Drama,825987,112000000,USA,English,4400000
+Rebecca,Not Rated,130,1940,8.1,"Drama, Mystery, Romance",110299,4360000,USA,English,1288000
+Selma,PG-13,128,2014,7.5,"Biography, Drama, History",77262,52076908,UK,English,20000000
+Rosemary's Baby,R,137,1968,8,"Drama, Horror",168868,0,USA,English,2300000
+Frankenstein,Passed,70,1931,7.9,"Drama, Horror, Sci-Fi",58345,12000000,USA,English,291000
+The General,Passed,67,1926,8.2,"Action, Adventure, Comedy",71370,0,USA,English,750000
+The Conformist,R,113,1970,8.1,Drama,23176,58657,Italy,Italian,750000
+Touch of Evil,PG-13,95,1958,8,"Crime, Drama, Film-Noir",92539,2237659,USA,English,829000
+Annie Hall,PG,93,1977,8,"Comedy, Romance",235732,39200000,USA,English,4000000
+It's a Wonderful Life,PG,130,1946,8.6,"Drama, Family, Fantasy",354712,0,USA,English,3180000
+The Day the Earth Stood Still,G,92,1951,7.8,"Drama, Sci-Fi",71967,79366978,USA,English,1200000
+The Hurt Locker,R,131,2008,7.6,"Drama, Thriller, War",390651,17017811,USA,English,15000000
+L.A. Confidential,R,138,1997,8.3,"Crime, Drama, Mystery",491030,64616940,USA,English,35000000
+Mad Max: Fury Road,R,120,2015,8.1,"Action, Adventure, Sci-Fi",774357,154058340,Australia,English,150000000
+Pinocchio,G,88,1940,7.5,"Animation, Comedy, Family",115292,84254167,USA,English,2600000
+The 39 Steps,Not Rated,86,1935,7.8,"Mystery, Thriller",46575,0,UK,English,67103
+"Rome, Open City",Not Rated,103,1945,8.1,"Drama, Thriller, War",20330,0,Italy,Italian,0
+Tokyo Story,Not Rated,136,1953,8.2,Drama,43408,0,Japan,Japanese,0
+The Last Picture Show,R,118,1971,8.1,Drama,37587,29133000,USA,English,1300000
+The Grapes of Wrath,Passed,129,1940,8.1,"Drama, History",80485,55000,USA,English,800000
+To Kill a Mockingbird,Not Rated,129,1962,8.3,"Crime, Drama",270172,592237,USA,English,2000000
+Mr. Smith Goes to Washington,Not Rated,129,1939,8.2,"Comedy, Drama",97766,9600000,USA,English,1500000
+The Wages of Fear,Not Rated,131,1953,8.1,"Adventure, Drama, Thriller",47948,0,France,French,0
+Patton,GP,172,1970,8,"Biography, Drama, War",87692,61700000,USA,English,12000000
+Roman Holiday,Not Rated,118,1953,8.1,"Comedy, Romance",117075,0,USA,English,1500000
+High Noon,PG,85,1952,8,"Action, Drama, Thriller",90170,9450000,USA,English,730000
+Double Indemnity,Passed,107,1944,8.3,"Crime, Drama, Film-Noir",126781,5720000,USA,English,927262
+Forrest Gump,PG-13,142,1994,8.8,"Drama, Romance",1597592,330252182,USA,English,55000000
+The Silence of the Lambs,R,118,1991,8.6,"Crime, Drama, Thriller",1124638,130742922,USA,English,19000000
+There Will Be Blood,R,158,2007,8.2,Drama,460875,40222514,USA,English,25000000
+Die Hard,R,132,1988,8.2,"Action, Thriller",716482,83008852,USA,English,28000000
+Fargo,R,98,1996,8.1,"Crime, Drama, Thriller",558626,24611975,USA,English,7000000
+American Beauty,R,122,1999,8.4,Drama,985303,130096601,USA,English,15000000
+The Matrix,R,136,1999,8.7,"Action, Sci-Fi",1496286,171479930,USA,English,63000000
+The Bridge on the River Kwai,PG,161,1957,8.2,"Adventure, Drama, War",185354,44908000,UK,English,3000000
+The Best Years of Our Lives,Approved,170,1946,8.1,"Drama, Romance, War",53060,23650000,USA,English,2100000
+Roma,R,135,2018,7.8,Drama,103275,0,Mexico,English,15000000
+White Heat,Not Rated,114,1949,8.2,"Action, Crime, Drama",24361,0,USA,English,1300000
+The Sound of Music,G,172,1965,8,"Biography, Drama, Family",181805,163214286,USA,English,8200000
+Inception,PG-13,148,2010,8.8,"Action, Adventure, Sci-Fi",1825884,292576195,USA,English,160000000
+Bonnie and Clyde,R,111,1967,7.8,"Action, Biography, Crime",93630,0,USA,English,2500000
+Midnight Cowboy,R,113,1969,7.9,Drama,89899,44785053,USA,English,3600000
+Shane,Not Rated,118,1953,7.7,"Drama, Western",33394,20000000,USA,English,3100000
+Intolerance: Love's Struggle Throughout the Ages,Passed,197,1916,7.9,"Drama, History",12736,2180000,USA,English,385907
+Man on Wire,PG-13,94,2008,7.8,"Documentary, Biography",49166,2957978,UK,English,1118375
+Battleship Potemkin,Not Rated,66,1925,8,"Drama, History",47952,50970,Soviet Union,Russian,0
+Anatomy of a Murder,Not Rated,160,1959,8,"Crime, Drama, Mystery",53720,11900000,USA,English,0
+The Leopard,PG,186,1963,8.1,"Drama, History",20023,0,Italy,Italian,1670711
+The Lady Vanishes,Not Rated,96,1938,7.9,"Mystery, Thriller",42517,0,UK,English,3286230
+Cool Hand Luke,GP,127,1967,8.1,"Crime, Drama",147841,0,USA,English,3200000
+The Usual Suspects,R,106,1995,8.6,"Crime, Mystery, Thriller",901379,23341568,USA,English,6000000
+The Shining,R,146,1980,8.4,"Drama, Horror",775209,44017374,UK,English,19000000
+City of God,R,130,2002,8.6,"Crime, Drama",640545,7563397,Brazil,Portuguese,3300000
+Heat,R,170,1995,8.2,"Crime, Drama, Thriller",521309,67436818,USA,English,60000000
+Kind Hearts and Coronets,Not Rated,106,1949,8.1,"Comedy, Crime",31729,0,UK,English,0
+The Big Lebowski,R,117,1998,8.1,"Comedy, Crime",659521,17498804,USA,English,15000000
+La Dolce Vita,Not Rated,174,1960,8.1,"Comedy, Drama",58697,19516000,Italy,Italian,0
+Fantasia,G,125,1940,7.8,"Animation, Family, Fantasy",81643,76408097,USA,English,2280000
+No Country for Old Men,R,122,2007,8.1,"Crime, Drama, Thriller",762377,74283625,USA,English,25000000
+This Is Spinal Tap,R,82,1984,8,"Comedy, Music",119818,188751,USA,English,2500000
+Three Colors: Red,R,99,1994,8.1,"Drama, Mystery, Romance",79560,4043686,Switzerland,French,0
+Good Will Hunting,R,126,1997,8.3,"Drama, Romance",761225,138433435,USA,English,10000000
+8½,Not Rated,138,1963,8.1,Drama,99007,50690,Italy,Italian,0
+La La Land,PG-13,128,2016,8,"Comedy, Drama, Music",431287,151101803,USA,English,30000000
+West Side Story,Not Rated,153,1961,7.6,"Crime, Drama, Musical",87204,43656822,USA,English,6000000
+The Deer Hunter,R,183,1978,8.1,"Drama, War",283003,48979328,USA,English,15000000
+MASH,R,116,1970,7.6,"Comedy, Drama, War",63085,81600000,USA,English,3500000
+Beauty and the Beast,G,84,1991,8,"Animation, Family, Fantasy",387030,218967620,USA,English,25000000
+The Lives of Others,R,137,2006,8.4,"Drama, Thriller",320778,11286112,Germany,German,2000000
+The Artist,PG-13,100,2011,7.9,"Comedy, Drama, Romance",216566,44671682,France,English,15000000
+Whiplash,R,106,2014,8.5,"Drama, Music",609601,13092000,USA,English,3300000
+The King's Speech,R,118,2010,8,"Biography, Drama, History",590877,138797449,UK,English,15000000
+Invasion of the Body Snatchers,Not Rated,80,1956,7.8,"Drama, Horror, Sci-Fi",40472,24946533,USA,English,417000
+Birdman or (The Unexpected Virtue of Ignorance),R,119,2014,7.7,"Comedy, Drama",515637,42340598,USA,English,18000000
+Manchester by the Sea,R,137,2016,7.8,Drama,212725,47695120,USA,English,8500000
+The Lord of the Rings: The Two Towers,PG,179,2002,8.7,"Adventure, Drama, Fantasy",1341152,342551365,New Zealand,English,94000000
+Close Encounters of the Third Kind,PG,138,1977,7.7,"Drama, Sci-Fi",166511,132088635,USA,English,20000000
+Brooklyn,PG-13,117,2015,7.5,"Drama, Romance",116315,38317535,UK,English,11000000
+Million Dollar Baby,PG-13,132,2004,8.1,"Drama, Sport",583579,100492203,USA,English,30000000
+Das Boot,R,149,1981,8.4,"Adventure, Drama, Thriller",208248,11487676,West Germany,German,14000000
+Hell or High Water,R,102,2016,7.6,"Action, Crime, Drama",174714,26862450,USA,English,12000000
+Ordinary People,R,124,1980,7.8,Drama,42016,54800000,USA,English,6000000
+The Pianist,R,150,2002,8.5,"Biography, Drama, Music",637322,32572577,UK,English,35000000
+Come and See,Not Rated,142,1985,8.2,"Drama, War",43050,0,Soviet Union,Belarusian,0
+Cinema Paradiso,R,155,1988,8.5,Drama,199718,11990401,Italy,Italian,5000000
+His Girl Friday,Passed,92,1940,8,"Comedy, Drama, Romance",48303,296000,USA,English,0
+Harold and Maude,PG,91,1971,8,"Comedy, Drama, Romance",65037,0,USA,English,1200000
+Witness for the Prosecution,Not Rated,116,1957,8.4,"Crime, Drama, Mystery",91023,8175000,USA,English,3000000
+Paths of Glory,Not Rated,88,1957,8.4,"Drama, War",155186,0,USA,English,935000
+Stand by Me,R,89,1986,8.1,"Adventure, Drama",331955,52287414,USA,English,8000000
+Eternal Sunshine of the Spotless Mind,R,108,2004,8.3,"Drama, Romance, Sci-Fi",820082,34400301,USA,English,20000000
+Amadeus,R,160,1984,8.3,"Biography, Drama, History",334670,51973029,USA,English,18000000
+Oldeuboi,R,120,2003,8.4,"Action, Drama, Mystery",455429,707481,South Korea,Korean,3000000
+The Lion King,G,88,1994,8.5,"Animation, Adventure, Drama",827863,312900000,USA,English,45000000
+Boyhood,R,165,2014,7.9,Drama,314519,25379975,USA,English,4000000
+Argo,R,120,2012,7.7,"Biography, Drama, Thriller",532519,136025503,USA,English,44500000
+Thelma & Louise,R,130,1991,7.4,"Adventure, Crime, Drama",121408,45361000,USA,English,16500000
+A Matter of Life and Death,PG,104,1946,8.1,"Comedy, Drama, Fantasy",17047,0,UK,English,357880
+Manhattan,R,96,1979,8,"Comedy, Drama, Romance",121251,45700000,USA,English,9000000
+The Life and Death of Colonel Blimp,Not Rated,163,1943,8.2,"Drama, Romance, War",11700,0,UK,English,223675
+The Great Escape,Not Rated,172,1963,8.2,"Adventure, Drama, History",203985,12100000,USA,English,4000000
+Spartacus,PG-13,197,1960,7.9,"Adventure, Biography, Drama",112702,30000000,USA,English,12000000
+Monty Python and the Holy Grail,PG,91,1975,8.3,"Adventure, Comedy, Fantasy",458774,1229197,UK,English,256751
+Brazil,R,132,1985,8,"Drama, Sci-Fi",174675,9929135,UK,English,15000000
+Magnolia,R,188,1999,8,Drama,269092,22455976,USA,English,37000000
+Tootsie,PG,116,1982,7.4,"Comedy, Drama, Romance",89018,177200000,USA,English,22000000
+The Departed,R,151,2006,8.5,"Crime, Drama, Thriller",1068557,132384315,USA,English,90000000
+Arrival,PG-13,116,2016,7.9,"Drama, Mystery, Sci-Fi",509154,100546139,USA,English,47000000
+Casino Royale,PG-13,144,2006,8,"Action, Adventure, Thriller",537404,167445960,UK,English,150000000
+When Harry Met Sally...,R,95,1989,7.6,"Comedy, Drama, Romance",176477,92823600,USA,English,16000000
+Slumdog Millionaire,R,120,2008,8,"Drama, Romance",744109,141319928,UK,English,15000000
+Blue Velvet,R,120,1986,7.8,"Drama, Mystery, Thriller",161813,8551228,USA,English,6000000
+The King of Comedy,PG,109,1982,7.8,"Comedy, Crime, Drama",66947,2500000,USA,English,20000000
+The Breakfast Club,R,97,1985,7.9,"Comedy, Drama",316901,45875171,USA,English,1000000
+WALL·E,G,98,2008,8.4,"Animation, Adventure, Family",899664,223808164,USA,English,180000000
+Inside Out,PG,95,2015,8.2,"Animation, Adventure, Comedy",531048,356461711,USA,English,175000000
+Ferris Bueller's Day Off,PG-13,103,1986,7.8,Comedy,288094,70136369,USA,English,6000000
+Easy Rider,R,95,1969,7.4,"Adventure, Drama",88091,41728598,USA,English,400000
+Young Frankenstein,PG,106,1974,8,Comedy,132714,86300000,USA,English,2800000
+Amélie,R,122,2001,8.3,"Comedy, Romance",648329,33225499,France,French,13094431
+Se7en,R,127,1995,8.6,"Crime, Drama, Mystery",1277758,100125643,USA,English,33000000
+All the President's Men,PG,138,1976,8,"Biography, Drama, History",91611,70600000,USA,English,8500000
+Léon: The Professional,R,110,1994,8.6,"Action, Crime, Drama",918109,19501238,France,English,19556617
+The Kid,Not Rated,68,1921,8.3,"Comedy, Drama, Family",95894,5450000,USA,English,250000
+The Passion of Joan of Arc,Not Rated,114,1928,8.1,"Biography, Drama, History",40390,21877,France,French,6879460
+Life Is Beautiful,PG-13,116,1997,8.6,"Comedy, Drama, Romance",548426,57598247,Italy,Italian,20000000
+Rocky,PG,120,1976,8.1,"Drama, Sport",469791,117235247,USA,English,960000
+Trainspotting,R,93,1996,8.2,Drama,586955,16501785,UK,English,3500000
+Star Wars: Episode VI - Return of the Jedi,PG,131,1983,8.3,"Action, Adventure, Fantasy",856295,309125409,USA,English,32500000
+The Gold Rush,Not Rated,95,1925,8.2,"Adventure, Comedy, Drama",89023,5450000,USA,English,923000
+Unforgiven,R,130,1992,8.2,"Drama, Western",339152,101157447,USA,English,14400000
+Memento,R,113,2000,8.5,"Mystery, Thriller",1025262,25544867,USA,English,9000000
+Sunrise,Passed,94,1927,8.2,"Drama, Romance",43019,0,USA,English,0
+Nashville,R,160,1975,7.8,"Comedy, Drama, Music",20948,9984123,USA,English,2200000
+Duck Soup,Not Rated,68,1933,8,"Comedy, Musical, War",52114,0,USA,English,0
+Sullivan's Travels,Not Rated,90,1941,8.1,"Adventure, Comedy, Drama",21601,0,USA,English,689665
+Cabaret,PG,124,1972,7.8,"Drama, Musical",43194,42765000,USA,English,6000000
+Network,R,121,1976,8.1,Drama,130345,23689877,USA,English,3800000
+Saving Private Ryan,R,169,1998,8.6,"Drama, War",1101702,216540909,USA,English,70000000
+The African Queen,PG,105,1951,7.9,"Adventure, Drama, Romance",66196,536118,USA,English,1000000
+Who's Afraid of Virginia Woolf?,Not Rated,131,1966,8,Drama,63636,28000000,USA,English,7500000
+Red River,Passed,133,1948,7.8,"Action, Adventure, Romance",25351,0,USA,English,3000000
+In the Heat of the Night,Not Rated,110,1967,8,"Crime, Drama, Mystery",59992,24379978,USA,English,2000000
+Dial M for Murder,PG,105,1954,8.2,"Crime, Thriller",139807,12562,USA,English,1400000
+The Wild Bunch,R,135,1969,8,"Action, Adventure, Western",71851,638641,USA,English,6244087
+Titanic,PG-13,194,1997,7.8,"Drama, Romance",950212,659325379,USA,English,200000000
+A Night at the Opera,Passed,96,1935,8,"Comedy, Music, Musical",28508,0,USA,English,1057000
+Platoon,R,120,1986,8.1,"Drama, War",349724,138530565,USA,English,6000000
+Spirited Away,PG,125,2001,8.6,"Animation, Adventure, Family",552747,10055859,Japan,Japanese,19000000
+Once Upon a Time in America,R,229,1984,8.4,"Crime, Drama",275368,5321508,USA,English,30000000
+The Spirit of the Beehive,Not Rated,98,1973,8,"Drama, Fantasy",14934,0,Spain,Spanish,0
+A Separation,PG-13,123,2011,8.3,"Drama, Thriller",194977,7098492,Iran,Persian,500000
+Toy Story 3,G,103,2010,8.3,"Animation, Adventure, Comedy",676446,415004880,USA,English,200000000
+Bringing Up Baby,Not Rated,102,1938,8,"Comedy, Family, Romance",50873,0,USA,English,1073000
+The Sixth Sense,PG-13,107,1999,8.1,"Drama, Mystery, Thriller",840042,293506292,USA,English,40000000
+Swing Time,Not Rated,103,1936,7.6,"Comedy, Musical, Romance",10919,0,USA,English,886000
+The Conversation,PG,113,1974,7.9,"Drama, Mystery, Thriller",87109,4420000,USA,English,1600000
+Sophie's Choice,R,150,1982,7.6,"Drama, Romance",36878,30036000,UK,English,12000000
+The French Connection,R,104,1971,7.8,"Action, Crime, Drama",98961,51700000,USA,English,1800000
+Do the Right Thing,R,120,1989,7.9,"Comedy, Drama",74396,27545445,USA,English,6500000
+Yankee Doodle Dandy,Passed,126,1942,7.7,"Biography, Drama, Musical",12832,11800000,USA,English,0
+Ben-Hur,G,212,1959,8.1,"Adventure, Drama, History",200586,74700000,USA,English,15900000
+Rebel Without a Cause,PG-13,111,1955,7.8,Drama,75671,199963,USA,English,1500000
+Almost Famous,R,122,2000,7.9,"Adventure, Comedy, Drama",234090,32534850,USA,English,60000000
+Brokeback Mountain,R,134,2005,7.7,"Drama, Romance",298130,83043761,USA,English,14000000
+Fitzcarraldo,PG,158,1982,8.1,"Adventure, Drama",27364,0,West Germany,German,7984852
+The English Patient,R,162,1996,7.4,"Drama, Romance, War",165473,78651430,USA,English,27000000
+Stagecoach,Not Rated,96,1939,7.9,"Adventure, Drama, Western",37864,0,USA,English,392000
+American History X,R,119,1998,8.5,Drama,945656,6719864,USA,English,7500000
+The Magnificent Ambersons,Not Rated,88,1942,7.9,"Drama, Romance",20049,0,USA,English,850000
+The Sting,PG,129,1973,8.3,"Comedy, Crime, Drama",218373,159600000,USA,English,5500000
+A Man for All Seasons,G,120,1966,7.8,"Biography, Drama, History",28076,28350000,UK,English,2000000
+Shakespeare in Love,R,123,1998,7.1,"Comedy, Drama, History",200459,100317794,USA,English,25000000
+Lost in Translation,R,102,2003,7.8,Drama,372698,44585453,USA,English,4000000
+Reservoir Dogs,R,99,1992,8.3,"Crime, Drama, Thriller",817804,2832029,USA,English,1200000
+Indiana Jones and the Last Crusade,PG-13,127,1989,8.2,"Action, Adventure",629867,197171806,USA,English,48000000
+The Princess Bride,PG,98,1987,8.1,"Adventure, Family, Fantasy",356529,30857814,USA,English,16000000
+Solaris,PG,167,1971,8.1,"Drama, Mystery, Sci-Fi",69046,22168,Soviet Union,Russian,15367
+Up,PG,96,2009,8.2,"Animation, Adventure, Comedy",839175,293004164,USA,English,175000000
+The Green Mile,R,189,1999,8.6,"Crime, Drama, Fantasy",1006547,136801374,USA,English,60000000
+Doctor Zhivago,PG-13,197,1965,8,"Drama, Romance, War",64209,111722000,USA,English,11000000
+Pan's Labyrinth,R,118,2006,8.2,"Drama, Fantasy, War",569351,37634615,Mexico,Spanish,15098063
+Goldfinger,PG,110,1964,7.7,"Action, Adventure, Thriller",158219,51081062,UK,English,3000000
+Airplane!,PG,88,1980,7.8,Comedy,189275,83400000,USA,English,3500000
+Requiem for a Dream,R,102,2000,8.3,Drama,696060,3635482,USA,English,4500000
+The Thing,R,109,1982,8.1,"Horror, Mystery, Sci-Fi",328947,13782838,USA,English,15000000
+Jurassic Park,PG-13,127,1993,8.1,"Adventure, Sci-Fi, Thriller",778343,402453882,USA,English,63000000
+The Terminator,R,107,1984,8,"Action, Sci-Fi",725169,38400000,UK,English,6400000
+Blazing Saddles,R,93,1974,7.8,"Comedy, Western",115346,119500000,USA,English,2600000
+Finding Nemo,G,100,2003,8.1,"Animation, Adventure, Comedy",861815,380843261,USA,English,94000000
+The Wrestler,R,109,2008,7.9,"Drama, Sport",276524,26236603,USA,English,6000000
+Before Sunset,R,80,2004,8.1,"Drama, Romance",206796,5792822,USA,English,2700000
+Gladiator,R,155,2000,8.5,"Action, Adventure, Drama",1203684,187705427,USA,English,103000000
+Downfall,R,156,2004,8.2,"Biography, Drama, History",303462,5509040,Germany,German,15098063
+Full Metal Jacket,R,116,1987,8.3,"Drama, War",605357,46357676,UK,English,30000000
+The Thin Red Line,R,170,1998,7.6,"Drama, War",159962,36400491,USA,English,52000000
+Rio Bravo,Not Rated,141,1959,8,"Action, Drama, Western",50632,12535000,USA,English,0
+Harvey,Approved,104,1950,8,"Comedy, Drama, Fantasy",49788,0,USA,English,0
+Planet of the Apes,G,112,1968,8,"Adventure, Sci-Fi",155500,33395426,USA,English,5800000
+Grave of the Fireflies,Not Rated,89,1988,8.5,"Animation, Drama, War",194398,516962,Japan,Japanese,3700000
+La Haine,Not Rated,98,1995,8.1,"Crime, Drama",131187,309811,France,French,2896591
+Three Colors: Blue,R,98,1993,8,"Drama, Music, Mystery",77649,1324974,France,French,0
+Star Trek II: The Wrath of Khan,PG,113,1982,7.7,"Action, Adventure, Sci-Fi",104703,78912963,USA,English,11200000
+The Man Who Would Be King,PG,129,1975,7.9,Adventure,40733,0,UK,English,8000000
+Boogie Nights,R,155,1997,7.9,Drama,218989,26400640,USA,English,15000000
+Beauty and the Beast,Not Rated,93,1946,8,"Drama, Fantasy, Romance",22172,298718,France,French,25000000
+Badlands,PG,94,1973,7.9,"Crime, Drama",58055,0,USA,English,450000
+Babam ve Oglum,Not Found,108,2005,8.4,"Drama, Family",65911,0,Turkey,Turkish,0
+Miracle on 34th Street,Not Rated,96,1947,7.9,"Comedy, Drama, Family",36811,2650000,USA,English,630000
+For a Few Dollars More,R,132,1965,8.3,Western,204200,15000000,Italy,Italian,600000
+Superman,PG,143,1978,7.4,"Action, Adventure, Drama",147307,134218018,USA,English,55000000
+Children of Heaven,PG,89,1997,8.3,"Drama, Family",51667,925402,Iran,Persian,180000
+Ran,R,162,1985,8.2,"Action, Drama",99005,3522421,Japan,Japanese,11500000
+Braveheart,R,178,1995,8.4,"Biography, Drama, History",886543,75600000,USA,English,72000000
+Harry Potter and the Deathly Hallows: Part 2,PG-13,130,2011,8.1,"Adventure, Drama, Fantasy",687199,381011219,USA,English,125000000
+Room,R,118,2015,8.2,"Drama, Thriller",313327,14677674,Ireland,English,13000000
+The Hunt,R,115,2012,8.3,Drama,239680,687185,Denmark,Danish,3800000
+Django Unchained,R,165,2012,8.4,"Drama, Western",1201528,162805434,USA,English,100000000
+Rushmore,R,93,1998,7.7,"Comedy, Drama",156733,17105219,USA,English,9000000
+Get Out,R,104,2017,7.7,"Horror, Mystery, Thriller",391843,176040665,USA,English,5000000
+Scarface,R,170,1983,8.3,"Crime, Drama",660206,45598982,USA,English,25000000
+Inglourious Basterds,R,153,2009,8.3,"Adventure, Drama, War",1111133,120540719,Germany,English,75000000
+Drive,R,100,2011,7.8,"Crime, Drama",518986,35060689,USA,English,15000000
+Star Wars: Episode VII - The Force Awakens,PG-13,136,2015,8,"Action, Adventure, Fantasy",780429,936662225,USA,English,245000000
+The Seventh Seal,Not Rated,96,1957,8.2,"Drama, Fantasy",142640,0,Sweden,Swedish,150000
+The Truman Show,PG,103,1998,8.1,"Comedy, Drama, Sci-Fi",833406,125618201,USA,English,60000000
+Mulholland Dr.,R,147,2001,8,"Drama, Mystery, Thriller",289475,7220243,France,English,15000000
+Monty Python's Life of Brian,R,94,1979,8.1,Comedy,333007,20045115,UK,English,4000000
+The Exorcist,R,122,1973,8,Horror,331298,232906145,USA,English,12000000
+Aladdin,G,90,1992,8,"Animation, Adventure, Comedy",316844,217350219,USA,English,28000000
+The Wolf of Wall Street,R,180,2013,8.2,"Biography, Crime, Drama",1026595,116900694,USA,English,100000000
+Donnie Darko,R,113,2001,8.1,"Drama, Sci-Fi, Thriller",694699,1480006,USA,English,4500000
+Before Sunrise,R,101,1995,8.1,"Drama, Romance",236541,5535405,USA,English,2500000
+Let the Right One In,R,114,2008,7.9,"Drama, Horror, Romance",194465,2122065,Sweden,Swedish,4000000
+The Bourne Ultimatum,PG-13,115,2007,8,"Action, Mystery, Thriller",578175,227471070,USA,English,110000000
+The Celebration,R,105,1998,8.1,Drama,73197,1647780,Denmark,Danish,1300000
+Ratatouille,G,111,2007,8,"Animation, Adventure, Comedy",575200,206445654,USA,English,150000000
+JFK,R,189,1991,8,"Drama, History, Thriller",130411,70405498,France,English,40000000
+The Jungle Book,G,78,1967,7.6,"Animation, Adventure, Family",149963,141843612,USA,English,4000000
+The Bandit,Not Found,128,1996,8.3,"Crime, Drama, Thriller",54946,0,Turkey,Turkish,200520
+Children of Men,R,109,2006,7.9,"Drama, Sci-Fi, Thriller",428242,35552383,USA,English,76000000
+The Social Network,PG-13,120,2010,7.7,"Biography, Drama",566122,96962694,USA,English,40000000
+Princess Mononoke,PG-13,134,1997,8.4,"Animation, Adventure, Fantasy",292040,2375308,Japan,Japanese,21682560
+Ikiru,Not Rated,143,1952,8.3,Drama,58229,55240,Japan,Japanese,0
+The Incredibles,PG,115,2004,8,"Animation, Action, Adventure",597975,261441092,USA,English,92000000
+The Intouchables,R,112,2011,8.5,"Biography, Comedy, Drama",670412,13182281,France,French,10621048
+The Elephant Man,PG,124,1980,8.2,"Biography, Drama",199347,26010864,USA,English,5000000
+In the Name of the Father,R,133,1993,8.1,"Biography, Drama",140618,25010410,Ireland,English,13000000
+Kill Bill: Vol. 1,R,111,2003,8.1,"Action, Crime, Thriller",900042,70099045,USA,English,30000000
+Blade Runner 2049,R,164,2017,8,"Drama, Mystery, Sci-Fi",371996,92054159,USA,English,150000000
+Skyfall,PG-13,143,2012,7.8,"Action, Adventure, Thriller",590147,304360277,UK,English,200000000
+The Blues Brothers,R,133,1980,7.9,"Adventure, Comedy, Crime",166617,57229890,USA,English,27000000
+The Secret in Their Eyes,R,129,2009,8.2,"Drama, Mystery, Romance",171978,6390014,Argentina,Spanish,2000000
+Groundhog Day,PG,101,1993,8,"Comedy, Fantasy, Romance",538686,70906973,USA,English,14600000
+American Graffiti,PG,110,1973,7.5,"Comedy, Drama",74311,115000000,USA,English,777000
+Crimes and Misdemeanors,PG-13,104,1989,7.9,"Comedy, Drama",50173,18254702,USA,English,19000000
+Amores Perros,R,154,2000,8.1,"Drama, Thriller",206202,5383834,Mexico,Spanish,2000000
+Howl's Moving Castle,PG,119,2004,8.2,"Animation, Adventure, Family",280864,4711096,Japan,Japanese,24000000
+Gandhi,PG,191,1982,8.1,"Biography, Drama, History",206429,52767889,UK,English,22000000
+My Neighbor Totoro,G,86,1988,8.2,"Animation, Family, Fantasy",236970,1144649,Japan,Japanese,3700000
+Notorious,Not Rated,102,1946,8,"Drama, Film-Noir, Romance",84800,10464000,USA,English,2000000
+Judgment at Nuremberg,Not Rated,186,1961,8.2,"Drama, War",61373,0,USA,English,3000000
+Sweet Smell of Success,Approved,96,1957,8.1,"Drama, Film-Noir",24279,0,USA,English,2600000
+Mary and Max,Not Rated,92,2009,8.1,"Animation, Comedy, Drama",150170,0,Australia,English,5749336
+Her,R,126,2013,8,"Drama, Romance, Sci-Fi",463517,25568251,USA,English,23000000
+Incendies,R,131,2010,8.3,"Drama, Mystery, War",123012,6857096,Canada,French,6800000
+Strangers on a Train,PG,101,1951,8,"Crime, Film-Noir, Thriller",113777,7630000,USA,English,1200000
+Sin City,R,124,2005,8,"Crime, Thriller",713751,74103820,USA,English,40000000
+"Lock, Stock and Two Smoking Barrels",R,107,1998,8.2,"Comedy, Crime",491061,3897569,UK,English,1073285
+The Favourite,R,119,2018,7.6,"Biography, Drama, History",109089,34243870,Ireland,English,15000000
+Before Midnight,R,109,2013,7.9,"Drama, Romance",122318,8114627,USA,English,3000000
+A Beautiful Mind,PG-13,135,2001,8.2,"Biography, Drama",766284,170742341,USA,English,58000000
+Carlito's Way,R,144,1993,7.9,"Crime, Drama, Thriller",184935,36948322,USA,English,30000000
+The Untouchables,R,119,1987,7.9,"Crime, Drama, Thriller",254621,76270454,USA,English,25000000
+Casino,R,178,1995,8.2,"Crime, Drama",411726,42438300,USA,English,45000000
+Gran Torino,R,116,2008,8.1,Drama,666744,148095302,Germany,English,33000000
+Avatar,PG-13,162,2009,7.8,"Action, Adventure, Fantasy",1038422,760507625,UK,English,237000000
+Hacksaw Ridge,R,139,2016,8.1,"Biography, Drama, History",362485,67209615,Australia,English,40000000
+Memories of Murder,Not Rated,132,2003,8.1,"Action, Crime, Drama",99529,14131,South Korea,Korean,2800000
+Silver Linings Playbook,R,122,2012,7.7,"Comedy, Drama, Romance",618837,132092958,USA,English,21000000
+Little Miss Sunshine,R,101,2006,7.8,"Comedy, Drama",408095,59891098,USA,English,8000000
+The Nights of Cabiria,Not Rated,110,1957,8.1,Drama,38523,752045,Italy,Italian,0
+Into the Wild,R,148,2007,8.1,"Adventure, Biography, Drama",522033,18352454,USA,English,15000000
+Dunkirk,PG-13,106,2017,7.9,"Action, Drama, History",460612,188373161,UK,English,100000000
+Shoplifters,R,121,2018,8,"Crime, Drama",28327,3311687,Japan,Japanese,0
+Gangs of Wasseypur,Not Rated,321,2012,8.2,"Action, Comedy, Crime",68492,0,India,Hindi,2659812
+Stalker,Not Rated,162,1979,8.1,"Drama, Sci-Fi",97088,234723,Soviet Union,Russian,92203
+Diabolique,Not Rated,117,1955,8.1,"Crime, Drama, Horror",56256,0,France,French,0
+Hot Fuzz,R,121,2007,7.9,"Action, Comedy, Mystery",423113,23637265,UK,English,8944040
+Gone Girl,R,149,2014,8.1,"Drama, Mystery, Thriller",756131,167767189,USA,English,61000000
+Hotel Rwanda,PG-13,121,2004,8.1,"Biography, Drama, History",312138,23530892,UK,English,17500000
+Relatos salvajes,R,122,2014,8.1,"Comedy, Drama, Thriller",149725,3107072,Argentina,Spanish,3300000
+The Grand Budapest Hotel,R,99,2014,8.1,"Adventure, Comedy, Crime",629617,59100318,USA,English,25000000
+Prisoners,R,153,2013,8.1,"Crime, Drama, Mystery",522367,61002302,USA,English,46000000
+The Martian,PG-13,144,2015,8,"Adventure, Drama, Sci-Fi",674015,228433663,UK,English,108000000
+Persona,Not Rated,83,1966,8.1,"Drama, Thriller",86406,0,Sweden,Swedish,0
+Toy Story 2,G,92,1999,7.9,"Animation, Adventure, Comedy",466176,245852179,USA,English,90000000
+Rush,R,123,2013,8.1,"Action, Biography, Drama",389581,26947624,UK,English,38000000
+Hachi: A Dog's Tale,G,93,2009,8.1,"Drama, Family",221718,0,UK,English,16000000
+Dawn of the Dead,Not Rated,127,1978,7.9,"Horror, Thriller",103015,5100000,USA,English,650000
+Catch Me If You Can,PG-13,141,2002,8.1,"Biography, Crime, Drama",713019,164615351,USA,English,52000000
+Akira,R,124,1988,8.1,"Animation, Drama, Sci-Fi",138151,553171,Japan,Japanese,9937840
+Barry Lyndon,PG,185,1975,8.1,"Adventure, Drama, History",131540,0,UK,English,11000000
+Paper Moon,PG,102,1973,8.1,"Comedy, Drama",37884,30933743,USA,English,2500000
+Infernal Affairs,R,101,2002,8.1,"Crime, Drama, Mystery",110663,169659,Hong Kong,Cantonese,6428966
+Mary Poppins,G,139,1964,7.8,"Comedy, Family, Fantasy",141602,102272727,USA,English,6000000
+Dog Day Afternoon,R,125,1975,8,"Biography, Crime, Drama",217234,50000000,USA,English,1800000
+The Triplets of Belleville,PG-13,78,2003,7.8,"Animation, Comedy, Drama",47623,7002255,France,French,9500000
+Wings of Desire,PG-13,128,1987,8.1,"Drama, Fantasy, Romance",57522,3210139,West Germany,German,2802877
+What Ever Happened to Baby Jane?,Not Rated,134,1962,8.1,"Drama, Horror, Thriller",44896,4050000,USA,English,980000
+Edward Scissorhands,PG-13,105,1990,7.9,"Drama, Fantasy, Romance",413248,56362352,USA,English,20000000
+Ghostbusters,PG,105,1984,7.8,"Action, Comedy, Fantasy",321928,238632124,USA,English,30000000
+Halloween,R,91,1978,7.8,"Horror, Thriller",204277,47000000,USA,English,300000
+The Help,PG-13,146,2011,8.1,Drama,390723,169708112,USA,English,25000000
+Dazed and Confused,R,102,1993,7.7,Comedy,146220,7993039,USA,English,6900000
+The Nightmare Before Christmas,PG,76,1993,8,"Animation, Family, Fantasy",267439,75082668,USA,English,18000000
+In the Mood for Love,PG,98,2000,8.1,"Drama, Romance",104914,2734044,Hong Kong,Cantonese,0
+The Iron Giant,PG,86,1999,8,"Animation, Action, Adventure",155964,23159305,USA,English,70000000
+The Avengers,PG-13,143,2012,8.1,"Action, Adventure, Sci-Fi",1172274,623357910,USA,English,220000000
+Forbidden Planet,G,98,1956,7.6,"Action, Adventure, Sci-Fi",41055,3000000,USA,English,1900000
+Wild Strawberries,Not Rated,91,1957,8.2,"Drama, Romance",83740,0,Sweden,Swedish,0
+The Man Who Shot Liberty Valance,Not Rated,123,1962,8.1,"Drama, Western",62420,0,USA,English,3200000
+Andaz Apna Apna,PG,160,1994,8.2,"Comedy, Family, Romance",45293,0,India,Hindi,419209
+Nausicaä of the Valley of the Wind,PG,117,1984,8.1,"Animation, Adventure, Fantasy",127344,1845211,Japan,Japanese,1000000
+Letters from Iwo Jima,R,141,2006,7.9,"Drama, History, War",146000,13756082,USA,Japanese,19000000
+Ying xiong,PG-13,107,2002,7.9,"Action, Adventure, History",165406,53710019,China,Mandarin,31000000
+"Paris, Texas",R,145,1984,8.1,Drama,73964,2181987,West Germany,English,1528022
+Fanny and Alexander,R,188,1982,8.1,Drama,52148,4971340,Sweden,Swedish,6000000
+Mystic River,R,138,2003,8,"Crime, Drama, Mystery",387161,90135191,USA,English,25000000
+Baby Driver,R,112,2017,7.6,"Action, Crime, Drama",357081,107825862,UK,English,34000000
+Snatch,R,102,2000,8.3,"Comedy, Crime",714565,30328156,UK,English,7889958
+Warrior,PG-13,140,2011,8.2,"Drama, Sport",401803,13657115,USA,English,25000000
+Sling Blade,R,135,1996,8,Drama,81279,24475416,USA,English,890000
+Underground,Not Rated,167,1995,8.1,"Comedy, Drama, War",50798,171082,Federal Republic of Yugoslavia,Serbian,14000000
+Cat on a Hot Tin Roof,Not Rated,108,1958,8.1,Drama,40119,17570324,USA,English,3000000
+Interstellar,PG-13,169,2014,8.6,"Adventure, Drama, Sci-Fi",1285124,188020017,USA,English,165000000
+Elite Squad,R,115,2007,8.1,"Action, Crime, Drama",92139,8060,Brazil,Portuguese,4000000
+V for Vendetta,R,132,2005,8.2,"Action, Drama, Sci-Fi",947575,70511035,USA,English,54000000
+Le Samouraï,GP,101,1967,8.1,"Crime, Drama, Mystery",38936,39481,France,French,0
+"Spring, Summer, Fall, Winter... and Spring",R,103,2003,8.1,"Drama, Romance",70994,2380788,South Korea,Korean,0
+La leggenda del pianista sull'oceano,R,170,1998,8.1,"Drama, Music, Romance",51554,259127,Italy,English,9000000
+Darbareye Elly,Not Found,119,2009,8,"Drama, Mystery, Thriller",37810,106662,Iran,Persian,"1350000	"
+Dances with Wolves,PG-13,181,1990,8,"Adventure, Drama, Western",219723,184208848,USA,English,22000000
+Lady Bird,R,94,2017,7.4,"Comedy, Drama",174868,48958273,USA,English,10000000
+Adaptation.,R,115,2002,7.7,"Comedy, Drama",164626,22245861,USA,English,19000000
+The Message,PG,177,1976,8.2,"Adventure, Biography, Drama",39892,0,Lebanon,English,10000000
+Rififi,Not Rated,118,1955,8.2,"Crime, Thriller",22725,57226,France,French,200000
+Logan,R,137,2017,8.1,"Action, Drama, Sci-Fi",551251,226277068,USA,English,97000000
+Elite Squad: The Enemy Within,Not Rated,115,2010,8.1,"Action, Crime, Drama",74845,100119,Brazil,Portuguese,4061945
+3-Iron,R,88,2004,8,"Crime, Drama, Romance",44810,238507,South Korea,Korean,1000000
+Spider-Man: Into the Spider-Verse,PG,117,2018,8.5,"Animation, Action, Adventure",191529,190241310,USA,English,90000000
+Edge of Tomorrow,PG-13,113,2014,7.9,"Action, Sci-Fi",542847,100206256,USA,English,178000000
+Sherlock Jr.,Not Rated,45,1924,8.2,"Action, Comedy, Romance",32748,977375,USA,English,0
+Star Trek,PG-13,127,2009,8,"Action, Adventure, Sci-Fi",555237,257730019,USA,English,150000000
+Ace in the Hole,Not Rated,111,1951,8.2,"Drama, Film-Noir",24254,3969893,USA,English,1800000
+Harry Potter and the Prisoner of Azkaban,PG,142,2004,7.9,"Adventure, Family, Fantasy",486700,249358727,UK,English,130000000
+Bambi,G,70,1942,7.3,"Animation, Drama, Family",117116,102797150,USA,English,858000
+The Thin Man,Not Rated,91,1934,8.1,"Comedy, Crime, Mystery",24068,0,USA,English,226408
+Moon,R,97,2009,7.9,"Drama, Mystery, Sci-Fi",310587,5009677,UK,English,5000000
+Freaks,Not Rated,64,1932,7.9,"Drama, Horror",38080,0,USA,English,310607
+Twelve Monkeys,R,129,1995,8,"Mystery, Sci-Fi, Thriller",537533,57141459,USA,English,29000001
+Samsara,PG-13,102,2011,8.5,"Documentary, Music",29513,2601847,USA,None,4000000
+The Jazz Singer,Not Rated,88,1927,6.7,"Drama, Music, Musical",8168,7630000,USA,English,422000
+Persepolis,PG-13,96,2007,8.1,"Animation, Biography, Drama",81714,4443403,France,French,7300000
+Taare Zameen Par,PG,165,2007,8.4,"Drama, Family",139971,1223869,India,Hindi,1734660
+Evil Dead II,R,84,1987,7.8,"Comedy, Horror",134812,5923044,USA,English,3600000
+Who Framed Roger Rabbit,PG,104,1988,7.7,"Animation, Adventure, Comedy",167899,156452370,USA,English,70000000
+Serenity,PG-13,119,2005,7.9,"Action, Adventure, Sci-Fi",269255,25514517,USA,English,40000000
+Throne of Blood,Not Rated,110,1957,8.1,Drama,39596,46808,Japan,Japanese,0
+"Monsters, Inc.",G,92,2001,8.1,"Animation, Adventure, Comedy",734324,289916256,USA,English,115000000
+La Strada,Not Rated,108,1954,8.1,Drama,52949,0,Italy,Italian,0
+Pink Floyd: The Wall,R,95,1982,8,"Animation, Drama, Fantasy",70089,22244207,UK,English,12000000
+The Road Warrior,R,94,1981,7.6,"Action, Adventure, Sci-Fi",154240,12465371,Australia,English,2000000
+Dallas Buyers Club,R,117,2013,8,"Biography, Drama",400431,27298285,USA,English,5000000
+Kis Uykusu,Not Rated,196,2014,8.2,Drama,36671,0,Turkey,Turkish,0
+Ex Machina,R,108,2014,7.7,"Drama, Mystery, Sci-Fi",420983,25442958,UK,English,15000000
+Isle of Dogs,PG-13,101,2018,7.9,"Animation, Adventure, Comedy",105383,32015231,Germany,English,0
+Pirates of the Caribbean: The Curse of the Black Pearl,PG-13,143,2003,8,"Action, Adventure, Fantasy",959693,305413918,USA,English,140000000
+Kill Bill: Vol. 2,R,137,2004,8,"Action, Crime, Thriller",611193,66208183,USA,English,30000000
+Hunt for the Wilderpeople,PG-13,101,2016,7.9,"Adventure, Comedy, Drama",86668,5202582,New Zealand,English,2500000
+Zootopia,PG,108,2016,8,"Animation, Adventure, Comedy",379715,341268248,USA,English,150000000
+Song of the Sea,PG,93,2014,8.1,"Animation, Adventure, Drama",43577,857524,Ireland,English,5925427
+District 9,R,112,2009,7.9,"Action, Sci-Fi, Thriller",601942,115646235,South Africa,English,30000000
+3 Idiots,PG-13,170,2009,8.4,"Comedy, Drama",297227,6532908,India,Hindi,7950525
+Night of the Living Dead,Not Rated,96,1968,7.9,Horror,104544,89029,USA,English,114000
+How to Train Your Dragon,PG,98,2010,8.1,"Animation, Action, Adventure",606848,217581231,USA,English,165000000
+Mission: Impossible - Fallout,PG-13,147,2018,7.8,"Action, Adventure, Thriller",227764,220159104,USA,English,178000000
+The Prestige,PG-13,130,2006,8.5,"Drama, Mystery, Sci-Fi",1057649,53089891,USA,English,40000000
+Shrek,PG,90,2001,7.9,"Animation, Adventure, Comedy",559030,267665011,USA,English,60000000
+The Revenant,R,156,2015,8,"Action, Adventure, Biography",615134,183637894,USA,English,135000000
+Minority Report,PG-13,145,2002,7.6,"Action, Crime, Mystery",467548,132072926,USA,English,102000000
+Castle in the Sky,PG,125,1986,8.1,"Animation, Adventure, Drama",126912,523664,Japan,Japanese,0
+The Big Sick,R,120,2017,7.6,"Comedy, Drama, Romance",103062,42872467,USA,English,5000000
+Cinderella,G,74,1950,7.3,"Animation, Family, Fantasy",130448,85000000,USA,English,2900000
+The Mirror,G,107,1975,8.1,"Biography, Drama",31830,22168,Soviet Union,Russian,9558
+Shaun of the Dead,R,99,2004,7.9,"Comedy, Horror",467255,13542874,UK,English,5263040
+My Fair Lady,G,170,1964,7.9,"Drama, Family, Musical",79391,72000000,USA,English,17000000
+Coco,PG,105,2017,8.4,"Animation, Adventure, Comedy",270135,209726015,USA,English,175000000
+Waltz with Bashir,R,90,2008,8,"Animation, Biography, Drama",52159,2283276,Israel,Hebrew,1500000
+Brief Encounter,Not Rated,86,1945,8.1,"Drama, Romance",31739,0,UK,English,223679
+Ghost in the Shell,Not Rated,83,1995,8,"Animation, Action, Crime",114607,515905,Japan,Japanese,5420640
+Hidden Figures,PG,127,2016,7.8,"Biography, Drama, History",169523,169607287,USA,English,25000000
+The Imitation Game,PG-13,114,2014,8,"Biography, Drama, Thriller",615990,91125683,USA,English,14000000
+Chungking Express,PG-13,102,1994,8.1,"Comedy, Crime, Drama",52600,600200,Hong Kong,Cantonese,4900000
+Shutter Island,R,138,2010,8.1,"Mystery, Thriller",998274,128012934,USA,English,80000000
+Predator,R,107,1987,7.8,"Action, Adventure, Sci-Fi",343740,59735548,USA,English,15000000
+Mommy,R,139,2014,8.1,Drama,42675,3492754,Canada,French,4500000
+The Innocents,Not Rated,100,1961,7.9,Horror,23461,2616000,UK,English,565777
+"Crna macka, beli macor",R,127,1998,8.1,"Comedy, Crime, Romance",46886,348660,Federal Republic of Yugoslavia,Romany,4500000
+Sleuth,PG,138,1972,8,"Mystery, Thriller",41746,0,UK,English,3500000
+The Hidden Fortress,Not Rated,126,1958,8.1,"Adventure, Drama",29578,46808,Japan,Japanese,0
+Lincoln,PG-13,150,2012,7.4,"Biography, Drama, History",227849,182207973,USA,English,65000000
+My Sassy Girl,Not Rated,123,2001,8.1,"Comedy, Drama, Romance",42158,0,South Korea,Korean,0
+Black Swan,R,108,2010,8,"Drama, Thriller",645666,106954678,USA,English,13000000
+Hereditary,R,127,2018,7.3,"Drama, Horror, Mystery",146049,44069456,USA,English,10000000
+Dead Poets Society,PG,128,1989,8.1,"Comedy, Drama",366297,95860116,USA,English,16400000
+Breakfast at Tiffany's,Not Rated,115,1961,7.7,"Comedy, Drama, Romance",150731,0,USA,English,2500000
